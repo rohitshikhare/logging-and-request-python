@@ -1,0 +1,15 @@
+WARNING : 2021-10-06 15:00:43,306: number zero found...: 12
+INFO : 2021-10-06 15:00:43,306: Object created...: 38
+DEBUG : 2021-10-06 15:00:43,306: sum of (2, 0) is 2: 16
+DEBUG : 2021-10-06 15:00:43,306: subtraction of (2, 0) is 2: 20
+DEBUG : 2021-10-06 15:00:43,306: multiplication of (2, 0) is 0: 24
+ERROR : 2021-10-06 15:00:43,306:  number divide by Zero...: 47
+INFO : 2021-10-06 15:00:43,306: Program successfully completed...: 49
+CRITICAL : 2021-10-12 09:25:22,104: object not created...: 35
+WARNING : 2021-10-12 09:25:52,448: number zero found...: 12
+INFO : 2021-10-12 09:25:52,448: Object created...: 38
+DEBUG : 2021-10-12 09:25:52,449: sum of (2, 0) is 2: 16
+DEBUG : 2021-10-12 09:25:52,449: subtraction of (2, 0) is 2: 20
+DEBUG : 2021-10-12 09:25:52,450: multiplication of (2, 0) is 0: 24
+ERROR : 2021-10-12 09:25:52,450:  number divide by Zero...: 47
+INFO : 2021-10-12 09:25:52,450: Program successfully completed...: 49
