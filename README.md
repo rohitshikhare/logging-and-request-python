@@ -13,7 +13,6 @@ Levels of Log Message-
 If required, developers have the option to create more levels but these are sufficient enough to handle every possible situation.
 Each built-in level has been assigned its numeric value.
 
-  
     Level         Numeric value
 
     CRITICAL      50
