@@ -30,7 +30,7 @@ on the web service’s resources. A resource is any data available in the web se
 accessed and manipulated with HTTP requests to the REST API. The HTTP method tells the API which
 action to perform on the resource.
 
-      While there are many HTTP methods, the five methods listed below are the most commonly used with REST APIs:
+      the five methods listed below are the most commonly used with REST APIs:
   
 HTTP method     |    Description
 ----------------|-----------------------------------------
